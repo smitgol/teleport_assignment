@@ -1,4 +1,4 @@
-# Project Name
+# Teleport Assignment
 
 This project is built using Next.js, a React framework for production.
 
@@ -38,22 +38,3 @@ Before you begin, ensure you have met the following requirements:
     yarn dev
     ```
 2. Open your browser and navigate to `http://localhost:3000` to see the application running.
-
-## Building for Production
-
-1. Build the project:
-    ```bash
-    npm run build
-    ```
-    or
-    ```bash
-    yarn build
-    ```
-2. Start the production server:
-    ```bash
-    npm start
-    ```
-    or
-    ```bash
-    yarn start
-    ```
